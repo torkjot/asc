@@ -1,4 +1,4 @@
-baseURL = "https://torkjot.github.io/asc/"
+baseURL = "https://github.com/asc-dal/asc_dal"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 themesDir = "themes"
